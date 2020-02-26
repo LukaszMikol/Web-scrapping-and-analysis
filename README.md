@@ -51,38 +51,38 @@
 		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_4.png" alt="Table" title="Table">
 		</p>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_4_1.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_4_1.png" alt="Table" title="Table">
 		</p>
 		<li>Get statistics for all clubs and add to one file.</li>
 		<b>Table: </b>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_5.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_5.png" alt="Table" title="Table">
 		</p>
 		<li>Who is top scorer? List of the ten best-scoring players.</li>
 		<b>Table: </b>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_6.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_6.png" alt="Table" title="Table">
 		</p>
 		<li>List of ten players who have assist the most.</li>
 		<b>Table: </b>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_7.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_7.png" alt="Table" title="Table">
 		</p>
 		<li>Display a comparision efficient for ten the most scoring players.</li>
 		<b>Table: </b>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_8.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_8.png" alt="Table" title="Table">
 		</p>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_8_1.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_8_1.png" alt="Table" title="Table">
 		</p>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_8_2.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_8_2.png" alt="Table" title="Table">
 		</p>
 		<li>Display the number of goals and shots.</li>
 		<b>Table: </b>
 		<p align="center">
-		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_9.png" alt="Table" title="Table">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/task_9.png" alt="Table" title="Table">
 		</p>
 		<p align="center">
 		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_9_1.png" alt="Table" title="Table">
