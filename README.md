@@ -31,7 +31,7 @@
 	<li><b>Results</b></li>
 	<ol>
 		<li>Read clubs stats and display.</li>
-		<b>Table: </b>
+		<b>Table.</b>
 		<p align="center">
 		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_1.png" alt="Table" title="Table">
 		</p>
