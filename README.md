@@ -29,5 +29,23 @@
 	<li><b>Libraries</b></li>
 	Project used libaries as: Pandas and Matplotlib 
 	<li><b>Results</b></li>
+	<ol>
+		<li>Read clubs stats and display.</li>
+		<b>Table: </b>
+		<p align="center">
+		 	<img src="https://github.com/LukaszMikol/pandas/blob/master/screen/Task_1.png" alt="Table" title="Table">
+		</p>
+		<li>Display goals scored and lost for all clubs.</li>
+		<li>Display won and lost match for clubs.</li>
+		<li>Display ten the most draw clubs.</li>
+		<li>Get statistics for all clubs and add to one file.</li>
+		<li>Who is top scorer? List of the ten best-scoring players.</li>
+		<li>List of ten players who have assist the most.</li>
+		<li>Display a comparision efficient for ten the most scoring players.</li>
+		<li>Display the number of goals and shots.</li>
+		<li>Find players who have a yellow card and a red card [Show number of appearances].</li>
+		<li>How many players does each club have?</li>
+		<li>The number of goals of each club.</li>
+	</ol>
 </ol>
 
