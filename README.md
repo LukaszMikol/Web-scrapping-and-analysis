@@ -6,6 +6,8 @@
 	<li><b>Project goals:</b></li>
 	The main goal of the project is the analysis and processing of data related to English football clubs. This project 
 	answers the following tasks: 	
+	<b></b>
+	<b>TASKS: </b>
 	<ol>
 		<li>Read clubs stats and display.</li>
 		<li>Display goals scored and lost for all clubs.</li>
@@ -26,6 +28,6 @@
 	The solution to these tasks is in the file: "Answer_tasks.ipynb"
 	<li><b>Libraries</b></li>
 	Project used libaries as: Pandas and Matplotlib 
-	<li>Rezults</li>
+	<li><b>Results</b></li>
 </ol>
 
