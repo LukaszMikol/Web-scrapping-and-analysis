@@ -6,7 +6,7 @@
 	<li><b>Project goals:</b></li>
 	The main goal of the project is the analysis and processing of data related to English football clubs. This project 
 	answers the following tasks: 	
-	<b></b>
+	<br></br>
 	<b>TASKS: </b>
 	<ol>
 		<li>Read clubs stats and display.</li>
