@@ -1,4 +1,3 @@
-# pandas
 <h1><b>Web Scraping (Scrappy & Selenium)  and analysis English football dataset using library as Pandas, Seaborn, Matplotlib</b> - a practical project</h1>
 
 
@@ -25,7 +24,7 @@
 		<li>he most efficient players.</li>
 		<li>Get players who have a yellow card and a red card [Show number of appearances].</li>
 		<li>How many players does each club have?</li>
-		<li>Number of goals of each club.</li>
+		<li>The number of goals of each club.</li>
 	</ol>
 	<li><b>Data</b></li>
 	The scrapper is in the folder: "/premierLeague_static" 
