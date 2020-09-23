@@ -32,6 +32,6 @@
 	<li><b>Solutions</b></li>
 	The solution to these tasks is in the file: "Main.ipynb"
 	<li><b>Libraries</b></li>
-	Project used libaries as: Scrappy, Selenium, Pandas, Matplotlib and Matplotlib.
+	Project used libaries as: Scrappy, Selenium, Pandas, Seaborn and Matplotlib.
 </ol>
 
