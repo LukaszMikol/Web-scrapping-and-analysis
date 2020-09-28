@@ -1,4 +1,4 @@
-<h1><b>Web Scraping (Scrappy & Selenium)  and analysis English football dataset using library as Pandas, Seaborn, Matplotlib</b> - a practical project</h1>
+<h1><b>Web Scraping (Scrappy & Selenium) andanalysis of the dataset on English football using library as Pandas, Seaborn, Matplotlib</b> - a practical project</h1>
 
 
 <ol>
